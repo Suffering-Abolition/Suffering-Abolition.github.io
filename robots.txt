@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://Suffering-Abolition.github.io/sitemap.xml
