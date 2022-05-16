@@ -3,32 +3,49 @@
     <title>SAbo</title>
     <link href="https://Suffering-Abolition.github.io/feed.xml" rel="self" />
     <link href="https://Suffering-Abolition.github.io" />
-    <updated>2022-05-10T16:38:23+02:00</updated>
+    <updated>2022-05-16T12:31:14+02:00</updated>
     <author>
         <name>Suffering Abolitionist</name>
     </author>
     <id>https://Suffering-Abolition.github.io</id>
 
     <entry>
-        <title>Genetic enhancement</title>
+        <title>Genetic welfare</title>
         <author>
             <name>Suffering Abolitionist</name>
         </author>
         <link href="https://Suffering-Abolition.github.io/genetic-enhancement/"/>
         <id>https://Suffering-Abolition.github.io/genetic-enhancement/</id>
 
-        <updated>2022-05-02T15:57:09+02:00</updated>
+        <updated>2022-05-16T11:41:15+02:00</updated>
             <summary>
                 <![CDATA[
-                    What would i like to enhance in my self: aufopferungsbereitschaft, discussion on down sides - altering balance of agreeability and assertiveness - normative trait optimisation - raising of hedonic set point or pain reduction/threshold - increase in capabilities / ‘productivity’ and reversibility of genetic alterations:
+                    Header 2 What would i like to genetically improve, to feel less biologically impaired? aufopferungsbereitschaft, wording not genetic decay (outer judgement), but genetic impairment (inner/personal judgement)! - Both matters: the individuals experience AND the individuals impact on it's envirionment, particularily other sentient beings. discussion on&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>What would i like to enhance in my self:</p>
+                <div class="post__toc">
+<h3>Table of Contents</h3>
+<ul>
+<li> </li>
+<li><a href="#mcetoc_1g2sfps2eu">Header 2</a>
+<ul>
+<li><a href="#mcetoc_1g2sfps2ev">Header 3</a></li>
+</ul>
+</li>
+<li><a href="#mcetoc_1g2sfps2e10">Header 2</a></li>
+</ul>
+</div>
+<h2 id="mcetoc_1g2sfps2et"></h2>
+<h2 id="mcetoc_1g2sfps2eu">Header 2</h2>
+<p>What would i like to genetically improve, to feel less biologically impaired?</p>
 <p>aufopferungsbereitschaft,</p>
-<p>discussion on down sides</p>
 <p> </p>
+<p>wording not genetic <span style="color: #e03e2d;">decay </span>(outer judgement), but genetic <span style="color: #2dc26b;">impairment</span> (inner/personal judgement)! - Both matters: the individuals experience AND the individuals impact on it's envirionment, particularily other sentient beings. </p>
+<p> </p>
+<h3 id="mcetoc_1g2sfps2ev">Header 3</h3>
+<p>discussion on down sides</p>
 <ul>
 <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Caution should be applied, particularly when it comes to:</span></li>
 </ul>
@@ -36,7 +53,7 @@
 <p><span style="font-weight: 400;">- normative trait optimisation</span></p>
 <p><span style="font-weight: 400;">- raising of hedonic set point or pain reduction/threshold</span></p>
 <p><span style="font-weight: 400;">- increase in capabilities / ‘productivity’</span></p>
-<p> </p>
+<h2 id="mcetoc_1g2sfps2e10">Header 2</h2>
 <p><span style="font-weight: 400;">and reversibility of genetic alterations:</span></p>
             ]]>
         </content>
@@ -113,7 +130,7 @@
         <link href="https://Suffering-Abolition.github.io/about/"/>
         <id>https://Suffering-Abolition.github.io/about/</id>
 
-        <updated>2022-03-06T14:52:03+01:00</updated>
+        <updated>2022-05-12T18:09:46+02:00</updated>
             <summary>
                 <![CDATA[
                     About Us Ruth is the main host and author on this platform. They have bachelor's degrees in Biology and Social Work, as well as several years of experience in community building and event management for Effective Altruism (EA) and EA aligned groups. Nil is a&hellip;
@@ -123,10 +140,7 @@
             <![CDATA[
                 <h2>About Us</h2>
 <figure class="post__image post__image--left"><strong><img loading="lazy"  src="https://Suffering-Abolition.github.io/media/posts/5/April2020_2_v2.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://Suffering-Abolition.github.io/media/posts/5/responsive/April2020_2_v2-xs.jpg 300w ,https://Suffering-Abolition.github.io/media/posts/5/responsive/April2020_2_v2-sm.jpg 480w ,https://Suffering-Abolition.github.io/media/posts/5/responsive/April2020_2_v2-md.jpg 768w ,https://Suffering-Abolition.github.io/media/posts/5/responsive/April2020_2_v2-lg.jpg 1024w ,https://Suffering-Abolition.github.io/media/posts/5/responsive/April2020_2_v2-xl.jpg 1360w ,https://Suffering-Abolition.github.io/media/posts/5/responsive/April2020_2_v2-2xl.jpg 1600w"  alt="Ruth" width="152" height="152"></figure></strong></p>
-<p><strong>Ruth</strong><span style="font-weight: 400;"> is the main host and author on this platform. They have bachelor's degrees in Biology and Social Work, as well as several years of experience in community building and event management for Effective Altruism (EA) and EA aligned groups.</span></p>
-<p> </p>
-<p><strong>Nil</strong><span style="font-weight: 400;"> is a technical manager and content contributor of the platform, volunteer for suffering abolitionism community projects, and a long-time supporter of suffering abolitionism in general. They have a background in software engineering and computer science and to a lesser extent in natural sciences. </span></p>
-<p><span style="font-weight: 400;">Outside this project Nil does earning-to-give as a software developer in a genome research institute. Their long-term goal is to start an abolitionist research fund. </span></p>
+<p><strong>Ruth</strong><span style="font-weight: 400;"> is the main host and author on this platform. They have bachelor's degrees in Biology and Social Work, as well as several years of experience in community building and event management for Effective Altruism (EA) and EA aligned groups.<br><br><br></span><strong>Nil</strong><span style="font-weight: 400;"> is a technical manager and content contributor of the platform, volunteer for suffering abolitionism community projects, and a long-time supporter of suffering abolitionism in general. They have a background in software engineering and computer science and to a lesser extent in natural sciences. <br></span><span style="font-weight: 400;">Outside this project Nil does earning-to-give as a software developer in a genome research institute. Their long-term goal is to start an abolitionist research fund. </span></p>
 <p><span style="font-weight: 400;"> </span><strong>You?</strong></p>
 <p> </p>
             ]]>
@@ -184,15 +198,16 @@
         <link href="https://Suffering-Abolition.github.io/intervention-mindmap-against-suffering/"/>
         <id>https://Suffering-Abolition.github.io/intervention-mindmap-against-suffering/</id>
 
-        <updated>2022-05-10T14:58:40+02:00</updated>
+        <updated>2022-05-16T11:48:08+02:00</updated>
             <summary>
                 <![CDATA[
-                    Interventions against Suffering Your browser does not support frames. View this map on its original site. It was created using Mindomo. (Click here to see the mind map in full) The intervention mind map is for people looking for ways to contribute to the cause.
+                    Interventions against Suffering "The best way to predict the future is to create it." ~ Abraham Lincoln (Click here to see the mind map in full) The intervention mind map is for people looking for ways to contribute to the cause. It gives a wide&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                 <h2 class="align-center"><span style="font-weight: 400;">Interventions against Suffering</span></h2>
+<p class="align-center">"The best way to predict the future is to create it."<br>~ Abraham Lincoln </p>
 <div class="post__iframe"><iframe loading="lazy" width="500" height="500" style="border: 1px solid #d0d0d0; border-radius: 6px;" src="https://www.mindomo.com/mindmap/054-suffering_abolition_finding-your-niche-of-engagement_from-first-steps-to-career-forming-copy-1124f34e4b084d55a93d7755c881150b" frameborder="0" allowfullscreen="allowfullscreen">Your browser does not support frames. <a href="https://www.mindomo.com/mindmap/054-suffering_abolition_finding-your-niche-of-engagement_from-first-steps-to-career-forming-copy-1124f34e4b084d55a93d7755c881150b" target="_blank">View</a> this map on its original site. It was created using <a href="https://www.mindomo.com" target="_blank">Mindomo</a>.</iframe></div>
 <p class="align-center">(Click <a href="https://www.mindomo.com/mindmap/1124f34e4b084d55a93d7755c881150b">here</a> to see the mind map in full)</p>
 <p><span style="font-weight: 400;">The intervention mind map is for people looking for ways to contribute to the cause. It gives a wide variation of ideas for engagement for those who are </span></p>
@@ -521,7 +536,7 @@
         <link href="https://Suffering-Abolition.github.io/mechanisms-and-causes-of-suffering/"/>
         <id>https://Suffering-Abolition.github.io/mechanisms-and-causes-of-suffering/</id>
 
-        <updated>2022-05-10T16:38:23+02:00</updated>
+        <updated>2022-05-16T12:31:14+02:00</updated>
             <summary>
                 <![CDATA[
                     Mechanisms and Causes of Suffering Your browser does not support frames. View this map on its original site. It was created using Mindomo. (Click here to see the mind map in full) For a slightly more expansive exploration regarding the mind maps topics, particularly on&hellip;
@@ -612,7 +627,7 @@
 </ul>
 </li>
 </ul>
-<p>A major sustainability issue here is, if not combined with genetic interventions, that natural genetic diversification without selection pressure results in functionality decay that eventually can’t be compensated with external factors, such as education and welfare. Unfortunately, a common misconception is that genetic decay takes anywhere near as many generations as genetic adaptations with ‘gain of function mutations’. </p>
+<p>A major sustainability issue here is, if not combined with genetic interventions, that natural genetic diversification without selection pressure results in functionality impairments, which eventually can’t be compensated for with external factors, such as education and welfare. Unfortunately, a common misconception is that genetic decay takes anywhere near as many generations as genetic adaptations with ‘gain of function mutations’. </p>
 <p>There is, however, a very understandable reason behind avoiding this topic, as it may conjure up horrendous forms of eugenics and genocide on people with disabilities, as they happened in Nazi Germany and other parts of the world.  </p>
 <p>Instead of acknowledging genetic factors as a source of privilege, people tend to value or devalue carriers for the presumable quality of their genes. I believe, however, avoiding or suppressing the topic altogether cannot be a response to the hatred against carriers of dysfunctional genes. Instead, we should advocate for welfare that incorporates genetic engineering technologies as much as it includes classical medical care or social welfare.   </p>
 <figure class="is-loaded"><img loading="lazy"  src="https://suffering-abolition.github.io/media/posts/2/5_Website_Mindmap_Numbers.png" data-is-external-image="true"  sizes="(max-width: 48em) 100vw, 768px" srcset="https://Suffering-Abolition.github.io/media/posts/2/responsive/5_Website_Mindmap_Numbers-xs.png 300w, https://Suffering-Abolition.github.io/media/posts/2/responsive/5_Website_Mindmap_Numbers-sm.png 480w, https://Suffering-Abolition.github.io/media/posts/2/responsive/5_Website_Mindmap_Numbers-md.png 768w, https://Suffering-Abolition.github.io/media/posts/2/responsive/5_Website_Mindmap_Numbers-lg.png 1024w, https://Suffering-Abolition.github.io/media/posts/2/responsive/5_Website_Mindmap_Numbers-xl.png 1360w, https://Suffering-Abolition.github.io/media/posts/2/responsive/5_Website_Mindmap_Numbers-2xl.png 1600w" alt="" width="90" height="96" loading="lazy"></figure>
@@ -650,7 +665,7 @@
 <p>The next category is natural evolution. The way it causes suffering is through <span style="color: #ba8484;">excessive reproduction rates</span>. Excess of offspring and thus gene carriers is needed as a basis for selection processes. Which again only works in favour of evolutionary processes if most of the offspring lose the fight for survival. It is a game with a predetermined ever same goal: to secure the survival of at least part of the offspring. The evolution game has many victims, and even ‘winning’ doesn’t mean safety and protection against suffering.</p>
 <p>An <span style="color: #aac78b;">intervention</span> targeting the downsides of natural evolution needs to<span style="color: #aac78b;"> reduce death and reproduction rates</span>. The genetically imprinted desires that lead to reproduction need to be addressed (especially once death becomes avoidable through medical advances).</p>
 <p>The other part of natural evolution is <span style="color: #ba8484;">gene-diversification through mutations and recombination</span>. Statistically, only the tiniest minority of genetic alterations is expected to benefit the carrier, while the vast majority is either useless or harmful to its carrier. Therefore, any ‘gain-of-function’ mutation requires many victims with destructive genetic alterations, and disadvantages in the fight for survival.</p>
-<p>A compassionate approach is <span style="color: #aac78b;">replacing competitive evolutionary strategy with reproduction control and pre-birth genetic optimisation</span>. <span style="font-weight: 400;">Most human societies have successfully fought the harsh selection conditions that are demanded for evolutionary progress. But unfortunately, without addressing over-reproduction and constant gene diversification, we are facing dead-end problems. In natural evolution, gene diversification is needed to generate adaptability to an ever-changing environment. Luckily, wealth and access to reproduction control have so far stabilised most human populations. But without addressing constant gene diversification, we not just lose the ability to adapt and progress as a species, but are facing genetic decay. And genetic decay through loss of selection pressure is, in fact, a fast process. </span><span style="font-weight: 400;">(cf. Alves et al., 2017; Graur, 2017; Lynch, 2016)</span></p>
+<p>A compassionate approach is <span style="color: #aac78b;">replacing competitive evolutionary strategy with reproduction/fertility control and pre-birth genetic welfare programs</span>. <span style="font-weight: 400;">Most human societies have successfully fought the harsh selection conditions that are demanded for evolutionary progress. But unfortunately, without addressing over-reproduction and constant gene diversification, we are facing dead-end problems. In natural evolution, gene diversification is needed to generate adaptability to an ever-changing environment. Luckily, wealth and access to reproduction control have so far stabilised most human populations. But without addressing constant gene diversification, we not just lose the ability to adapt and progress as a species, but are facing genetic decay. And genetic decay through loss of selection pressure is, in fact, a fast process. </span><span style="font-weight: 400;">(cf. Alves et al., 2017; Graur, 2017; Lynch, 2016)<br>We need to end the harsh competitive evolutionary cycles not just for humans but for all sentient beings, by applying reproduction/fertility control and implementing pre-birth genetic welfare programs to increase each individual's potential for complete physical, mental and social well-being. <br></span></p>
 <p><span style="color: #ba8484;"><strong>Environmental / Physical Factors</strong></span></p>
 <p>Environmental / Physical Factors are another external cause of suffering. Particularly liable to suffering are extreme changes of environment, caused among other things by climate changes, as well as terrestrial and ecological shifts. </p>
 <p>Such changes lead to both an <span style="color: #ba8484;">inability to adapt as an individual </span>and <span style="color: #ba8484;">accidents</span>. Even if species or populations survive and recover from changes in the environment or are able to co-evolve with their sources of nutrition, their competitors, predators, parasites and infectious diseases, these ecological dynamics entail suffering and death for the majority of the involved individuals. In fact, for individuals even minor changes, like those of normal seasons, can be hard to compensate for and thus cause severe suffering.</p>
