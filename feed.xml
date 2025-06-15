@@ -3,7 +3,7 @@
     <title>CFI | Compassionate Future Initiative</title>
     <link href="https://Suffering-Abolition.github.io/feed.xml" rel="self" />
     <link href="https://Suffering-Abolition.github.io" />
-    <updated>2025-06-15T15:33:28+02:00</updated>
+    <updated>2025-06-15T15:35:45+02:00</updated>
     <author>
         <name>by Ruth Seleo</name>
     </author>
@@ -163,7 +163,8 @@
             </summary>
         <content type="html">
             <![CDATA[
-                <h2>Compassionate Genomics for the 21st Century </h2>
+                <div class="post-with-toc">
+<h2>Compassionate Genomics for the 21st Century </h2>
 <h2>-</h2>
 <h2>Genomic Welfare with Ethical Care for Moral Predispositions </h2>
 <div class="post__toc">
@@ -662,6 +663,7 @@
 <p><span style="color: #95a5a6;"><span style="font-weight: 400;">This article was first published on </span><span style="font-weight: 400;">13 Jun 2025</span><span style="font-weight: 400;">.</span></span></p>
 </div>
 <p> </p>
+</div>
             ]]>
         </content>
     </entry>
