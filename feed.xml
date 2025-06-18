@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>CFI | Compassionate Future Initiative</title>
-    <link href="https://Suffering-Abolition.github.io/feed.xml" rel="self" />
-    <link href="https://Suffering-Abolition.github.io" />
+    <link href="https://compassionate-future.org/feed.xml" rel="self" />
+    <link href="https://compassionate-future.org" />
     <updated>2025-06-15T15:58:58+02:00</updated>
     <author>
         <name>by Ruth Seleo</name>
     </author>
-    <id>https://Suffering-Abolition.github.io</id>
+    <id>https://compassionate-future.org</id>
 
     <entry>
         <title>News, Updates &amp; Events</title>
         <author>
             <name>by Ruth Seleo</name>
         </author>
-        <link href="https://Suffering-Abolition.github.io/news-updates-and-events/"/>
-        <id>https://Suffering-Abolition.github.io/news-updates-and-events/</id>
+        <link href="https://compassionate-future.org/news-updates-and-events/"/>
+        <id>https://compassionate-future.org/news-updates-and-events/</id>
 
         <updated>2024-08-14T12:47:26+02:00</updated>
             <summary>
@@ -152,8 +152,8 @@
         <author>
             <name>by Ruth Seleo</name>
         </author>
-        <link href="https://Suffering-Abolition.github.io/compassionate-genomics/"/>
-        <id>https://Suffering-Abolition.github.io/compassionate-genomics/</id>
+        <link href="https://compassionate-future.org/compassionate-genomics/"/>
+        <id>https://compassionate-future.org/compassionate-genomics/</id>
 
         <updated>2022-04-30T16:58:56+02:00</updated>
             <summary>
@@ -661,8 +661,8 @@
         <author>
             <name>by Ruth Seleo</name>
         </author>
-        <link href="https://Suffering-Abolition.github.io/menu/"/>
-        <id>https://Suffering-Abolition.github.io/menu/</id>
+        <link href="https://compassionate-future.org/menu/"/>
+        <id>https://compassionate-future.org/menu/</id>
 
         <updated>2021-12-26T12:33:43+01:00</updated>
             <summary>
@@ -673,13 +673,13 @@
         <content type="html">
             <![CDATA[
                 <h2>Menu</h2>
-<p><strong><a href="https://Suffering-Abolition.github.io/how-about-we-abolish-suffering/">1 Intro: The Future Holds Hope for a World Without Suffering</a></strong></p>
-<p><strong><a href="https://Suffering-Abolition.github.io/mechanisms-and-causes-of-suffering/">2 Mechanisms and Causes of Suffering</a> </strong></p>
-<p><strong><a href="https://Suffering-Abolition.github.io/intervention-mindmap-against-suffering/">3 Intervention Mindmap against Suffering</a> </strong></p>
-<p><strong><a href="https://Suffering-Abolition.github.io/compassionate-genomics/">4 Compassionate Genomics</a></strong></p>
-<p><strong><a href="https://Suffering-Abolition.github.io/news-updates-and-events/">5 News, Updates &amp; Events</a></strong></p>
-<p><strong><a href="https://Suffering-Abolition.github.io/ressources/">6 Ressources</a></strong></p>
-<p><strong><a href="https://Suffering-Abolition.github.io/about/">7 About Us</a></strong></p>
+<p><strong><a href="https://compassionate-future.org/how-about-we-abolish-suffering/">1 Intro: The Future Holds Hope for a World Without Suffering</a></strong></p>
+<p><strong><a href="https://compassionate-future.org/mechanisms-and-causes-of-suffering/">2 Mechanisms and Causes of Suffering</a> </strong></p>
+<p><strong><a href="https://compassionate-future.org/intervention-mindmap-against-suffering/">3 Intervention Mindmap against Suffering</a> </strong></p>
+<p><strong><a href="https://compassionate-future.org/compassionate-genomics/">4 Compassionate Genomics</a></strong></p>
+<p><strong><a href="https://compassionate-future.org/news-updates-and-events/">5 News, Updates &amp; Events</a></strong></p>
+<p><strong><a href="https://compassionate-future.org/ressources/">6 Ressources</a></strong></p>
+<p><strong><a href="https://compassionate-future.org/about/">7 About Us</a></strong></p>
 <p><strong><a href="#INTERNAL_LINK#/post/null">8 Networks</a> </strong></p>
 <p> </p>
             ]]>
@@ -690,8 +690,8 @@
         <author>
             <name>by Ruth Seleo</name>
         </author>
-        <link href="https://Suffering-Abolition.github.io/ressources/"/>
-        <id>https://Suffering-Abolition.github.io/ressources/</id>
+        <link href="https://compassionate-future.org/ressources/"/>
+        <id>https://compassionate-future.org/ressources/</id>
 
         <updated>2021-12-13T20:12:05+01:00</updated>
             <summary>
@@ -728,8 +728,8 @@
         <author>
             <name>by Ruth Seleo</name>
         </author>
-        <link href="https://Suffering-Abolition.github.io/about/"/>
-        <id>https://Suffering-Abolition.github.io/about/</id>
+        <link href="https://compassionate-future.org/about/"/>
+        <id>https://compassionate-future.org/about/</id>
 
         <updated>2021-12-13T17:12:25+01:00</updated>
             <summary>
@@ -740,7 +740,7 @@
         <content type="html">
             <![CDATA[
                 <h2>About Us</h2>
-<figure class="post__image post__image--left"><strong><img loading="lazy"  src="https://Suffering-Abolition.github.io/media/posts/5/April2020_2_v2.jpg" alt="Ruth" width="199" height="199" sizes="(max-width: 48em) 100vw, 768px" srcset="https://Suffering-Abolition.github.io/media/posts/5/responsive/April2020_2_v2-xs.jpg 300w ,https://Suffering-Abolition.github.io/media/posts/5/responsive/April2020_2_v2-sm.jpg 480w ,https://Suffering-Abolition.github.io/media/posts/5/responsive/April2020_2_v2-md.jpg 768w ,https://Suffering-Abolition.github.io/media/posts/5/responsive/April2020_2_v2-lg.jpg 1024w ,https://Suffering-Abolition.github.io/media/posts/5/responsive/April2020_2_v2-xl.jpg 1360w ,https://Suffering-Abolition.github.io/media/posts/5/responsive/April2020_2_v2-2xl.jpg 1600w"></figure></strong></p>
+<figure class="post__image post__image--left"><strong><img loading="lazy"  src="https://compassionate-future.org/media/posts/5/April2020_2_v2.jpg" alt="Ruth" width="199" height="199" sizes="(max-width: 48em) 100vw, 768px" srcset="https://compassionate-future.org/media/posts/5/responsive/April2020_2_v2-xs.jpg 300w ,https://compassionate-future.org/media/posts/5/responsive/April2020_2_v2-sm.jpg 480w ,https://compassionate-future.org/media/posts/5/responsive/April2020_2_v2-md.jpg 768w ,https://compassionate-future.org/media/posts/5/responsive/April2020_2_v2-lg.jpg 1024w ,https://compassionate-future.org/media/posts/5/responsive/April2020_2_v2-xl.jpg 1360w ,https://compassionate-future.org/media/posts/5/responsive/April2020_2_v2-2xl.jpg 1600w"></figure></strong></p>
 <p><strong>Ruth</strong><span style="font-weight: 400;"> is the founder of the Compassionate Future Initiative. As Community Builder &amp; Advocacy Manager, they're advocating and mobilising for high-impact initiatives to reduce suffering in the near and distant future. </span><span style="font-weight: 400;">They have bachelor's degrees in Biology and Social Work, as well as several years of experience in community building and event management for Effective Altruism (EA) and EA aligned groups.</span></p>
 <p><span style="font-weight: 400;"><em><strong>Contact</strong> via compassionate.future [at] gmail.com</em><br><br><br></span><strong>Nil</strong><span style="font-weight: 400;"> is a technical manager and content contributor of the platform, volunteer for suffering abolitionism community projects, and a long-time supporter of suffering abolitionism in general. They have a background in software engineering and computer science and to a lesser extent in natural sciences. <br></span><span style="font-weight: 400;">Outside this project Nil does earning-to-give as a software developer in a genome research institute. Their long-term goal is to start an abolitionist research fund. </span></p>
 <p><span style="font-weight: 400;"> </span><strong>You?</strong></p>
@@ -753,8 +753,8 @@
         <author>
             <name>by Ruth Seleo</name>
         </author>
-        <link href="https://Suffering-Abolition.github.io/networks/"/>
-        <id>https://Suffering-Abolition.github.io/networks/</id>
+        <link href="https://compassionate-future.org/networks/"/>
+        <id>https://compassionate-future.org/networks/</id>
 
         <updated>2021-12-13T16:41:45+01:00</updated>
             <summary>
@@ -781,8 +781,8 @@
         <author>
             <name>by Ruth Seleo</name>
         </author>
-        <link href="https://Suffering-Abolition.github.io/intervention-mindmap-against-suffering/"/>
-        <id>https://Suffering-Abolition.github.io/intervention-mindmap-against-suffering/</id>
+        <link href="https://compassionate-future.org/intervention-mindmap-against-suffering/"/>
+        <id>https://compassionate-future.org/intervention-mindmap-against-suffering/</id>
 
         <updated>2021-12-13T14:08:16+01:00</updated>
             <summary>
@@ -1138,8 +1138,8 @@
         <author>
             <name>by Ruth Seleo</name>
         </author>
-        <link href="https://Suffering-Abolition.github.io/mechanisms-and-causes-of-suffering/"/>
-        <id>https://Suffering-Abolition.github.io/mechanisms-and-causes-of-suffering/</id>
+        <link href="https://compassionate-future.org/mechanisms-and-causes-of-suffering/"/>
+        <id>https://compassionate-future.org/mechanisms-and-causes-of-suffering/</id>
 
         <updated>2021-12-13T14:07:52+01:00</updated>
             <summary>
@@ -1381,8 +1381,8 @@
         <author>
             <name>by Ruth Seleo</name>
         </author>
-        <link href="https://Suffering-Abolition.github.io/how-about-we-abolish-suffering/"/>
-        <id>https://Suffering-Abolition.github.io/how-about-we-abolish-suffering/</id>
+        <link href="https://compassionate-future.org/how-about-we-abolish-suffering/"/>
+        <id>https://compassionate-future.org/how-about-we-abolish-suffering/</id>
 
         <updated>2021-12-13T14:05:28+01:00</updated>
             <summary>
