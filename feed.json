@@ -14,15 +14,15 @@
             "id": "https://compassionate-future.org/menu/",
             "url": "https://compassionate-future.org/menu/",
             "title": "Menu ",
-            "summary": "Menu 1 Intro: The Future Holds Hope for a World Without Suffering 2 Mechanisms and Causes of Suffering 3 Intervention Mindmap against Suffering 4 Compassionate Genomics 5 News, Updates &amp; Events 6 Resources 7 About Us 8 Networks",
-            "content_html": "<h2>Menu</h2>\n<p><strong><a href=\"https://compassionate-future.org/hope-for-a-world-without-suffering/\">1 Intro: The Future Holds Hope for a World Without Suffering</a></strong></p>\n<p><strong><a href=\"https://compassionate-future.org/mechanisms-and-causes-of-suffering/\">2 Mechanisms and Causes of Suffering</a> </strong></p>\n<p><strong><a href=\"https://compassionate-future.org/intervention-mindmap-against-suffering/\">3 Intervention Mindmap against Suffering</a> </strong></p>\n<p><strong><a href=\"https://compassionate-future.org/compassionate-genomics/\">4 Compassionate Genomics</a></strong></p>\n<p><strong><a href=\"https://compassionate-future.org/news-updates-and-events/\">5 News, Updates &amp; Events</a></strong></p>\n<p><strong><a href=\"#non-existing-post-with-id-6\">6 Resources</a></strong></p>\n<p><strong><a href=\"#non-existing-post-with-id-5\">7 About Us</a></strong></p>\n<p><strong><a href=\"#INTERNAL_LINK#/post/null\">8 Networks</a> </strong></p>\n<p> </p>",
+            "summary": "Menu 1 Intro: The Future Holds Hope for a World Without Suffering 2 Mechanisms and Causes of Suffering 3 Intervention Mindmap against Suffering 4 Compassionate Genomics 5 News, Updates &amp; Events 6 Networks 7 About Us",
+            "content_html": "<h2>Menu</h2>\n<p><a href=\"https://compassionate-future.org/hope-for-a-world-without-suffering/\">1 Intro: The Future Holds Hope for a World Without Suffering</a></p>\n<p><a href=\"https://compassionate-future.org/mechanisms-and-causes-of-suffering/\">2 Mechanisms and Causes of Suffering</a></p>\n<p><a href=\"https://compassionate-future.org/intervention-mindmap-against-suffering/\">3 Intervention Mindmap against Suffering</a></p>\n<p><a href=\"https://compassionate-future.org/compassionate-genomics/\">4 Compassionate Genomics</a></p>\n<p><a href=\"https://compassionate-future.org/news-updates-and-events/\">5 News, Updates &amp; Events</a></p>\n<p><a href=\"https://compassionate-future.org/networks/\">6 Networks</a> </p>\n<p><a href=\"https://compassionate-future.org/about/\">7 About Us</a></p>\n<p> </p>",
             "author": {
                 "name": "by Ruth Seleo"
             },
             "tags": [
             ],
             "date_published": "2025-07-06T13:56:29+02:00",
-            "date_modified": "2025-07-06T14:05:13+02:00"
+            "date_modified": "2025-07-06T14:10:42+02:00"
         },
         {
             "id": "https://compassionate-future.org/about/",
