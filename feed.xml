@@ -3,12 +3,49 @@
     <title>CFI | Compassionate Future Initiative</title>
     <link href="https://compassionate-future.org/feed.xml" rel="self" />
     <link href="https://compassionate-future.org" />
-    <updated>2026-04-25T14:37:14+02:00</updated>
+    <updated>2026-04-25T18:51:29+02:00</updated>
     <author>
         <name>by Ruth Seleo</name>
     </author>
     <id>https://compassionate-future.org</id>
 
+    <entry>
+        <title>Community &amp; Connection</title>
+        <author>
+            <name>by Ruth Seleo</name>
+        </author>
+        <link href="https://compassionate-future.org/community-and-connection/"/>
+        <id>https://compassionate-future.org/community-and-connection/</id>
+
+        <updated>2026-04-25T16:25:46+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Caring deeply about suffering can be challenging and at times isolating, as many choose to look away, to spare themselves the pain. That's why we want to foster this community. And hopefully, together, as a community, we will be able to apply effective and sustainable&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <div class="cfi-comm-section">
+<p>Caring deeply about suffering can be challenging and at times isolating, as many choose to look away, to spare themselves the pain. That's why we want to foster this community. And hopefully, together, as a community, we will be able to apply effective and sustainable problem-solving methodology and reduce suffering not just in the near but also distant future.</p>
+<p>If you feel a community could help you unlock your potential for impact, here's where to start:</p>
+<div class="cfi-community-grid">
+<div class="cfi-comm-card cfi-comm-card-join">
+<p class="cfi-comm-tag">Join the community</p>
+<div class="cfi-pill-group"><a class="cfi-pill" href="https://www.linkedin.com/groups/10035511/"> <svg width="13" height="13" viewbox="0 0 24 24" fill="currentColor"> <path d="M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433a2.062 2.062 0 0 1-2.063-2.065 2.064 2.064 0 1 1 2.063 2.065zm1.782 13.019H3.555V9h3.564v11.452zM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24 22.271V1.729C24 .774 23.2 0 22.222 0h.003z"></path> </svg> LinkedIn </a> <a class="cfi-pill" href="https://discord.gg/VaZ7CkQhub"> <svg width="13" height="13" viewbox="0 0 24 24" fill="currentColor"> <path d="M20.317 4.37a19.791 19.791 0 0 0-4.885-1.515.074.074 0 0 0-.079.037c-.21.375-.444.864-.608 1.25a18.27 18.27 0 0 0-5.487 0 12.64 12.64 0 0 0-.617-1.25.077.077 0 0 0-.079-.037A19.736 19.736 0 0 0 3.677 4.37a.07.07 0 0 0-.032.027C.533 9.046-.32 13.58.099 18.057a.082.082 0 0 0 .031.057 19.9 19.9 0 0 0 5.993 3.03.078.078 0 0 0 .084-.028c.462-.63.874-1.295 1.226-1.994a.076.076 0 0 0-.041-.106 13.107 13.107 0 0 1-1.872-.892.077.077 0 0 1-.008-.128 10.2 10.2 0 0 0 .372-.292.074.074 0 0 1 .077-.01c3.928 1.793 8.18 1.793 12.062 0a.074.074 0 0 1 .078.01c.12.098.246.198.373.292a.077.077 0 0 1-.006.127 12.299 12.299 0 0 1-1.873.892.077.077 0 0 0-.041.107c.36.698.772 1.362 1.225 1.993a.076.076 0 0 0 .084.028 19.839 19.839 0 0 0 6.002-3.03.077.077 0 0 0 .032-.054c.5-5.177-.838-9.674-3.549-13.66a.061.061 0 0 0-.031-.03zM8.02 15.278c-1.182 0-2.157-1.069-2.157-2.38 0-1.312.956-2.38 2.157-2.38 1.21 0 2.176 1.077 2.157 2.38 0 1.312-.956 2.38-2.157 2.38zm7.975 0c-1.183 0-2.157-1.069-2.157-2.38 0-1.312.955-2.38 2.157-2.38 1.21 0 2.176 1.077 2.157 2.38 0 1.312-.946 2.38-2.157 2.38z"></path> </svg> Discord </a></div>
+</div>
+<div class="cfi-comm-card cfi-comm-card-follow">
+<p class="cfi-comm-tag">Follow us</p>
+<div class="cfi-pill-group"><a class="cfi-pill" href="https://forum.effectivealtruism.org/groups/68QLvMdxRj7oJ5ZcW"> <svg width="13" height="13" viewbox="0 0 101 101" xmlns="http://www.w3.org/2000/svg"> <path fill="currentColor" d="M49.8,80.8C47,80.9 44.1,81.2 41.3,80.8C40.1,80.7 39.2,78.9 38.1,77.9C39.2,76.9 40.2,75.3 41.4,75.1C46.6,74.2 51.9,73.8 57.1,73C61,72.4 62.6,70.2 63.3,66C64.1,60.6 66.2,55.2 69,50.6C74.7,41.3 77.2,32.3 71.7,22.2C66.1,12 51.8,6.6 39.9,13.3C28.7,19.6 24.4,34.3 30.5,45.1C33.4,50.1 36,55.2 38.6,60.3C40.2,63.3 45.8,64.5 48.6,62C54.6,56.5 58.8,49.7 60.8,41.9C61.4,39.6 62.1,36 57.7,36.2C56.6,36.2 54.6,37.7 54.6,38.5C54.7,41.6 54.1,44.2 50.6,43.9C46.8,43.6 48.3,40.2 48.3,37.3C49.4,35.2 50.3,33.8 51.2,32.3C55.3,29.4 59.7,28.3 64,31.7C68.3,35.2 68.7,40.6 66.6,44.9C62.9,52.5 58.4,60 53.2,66.7C49.1,72 36.4,69.6 33.3,63.7C30.7,58.8 28.2,53.8 25.5,48.9C18.1,35.6 21.1,21.9 30.4,12.5C40.6,2.2 55.7,1.2 68.2,9.3C79,16.2 83.7,30.8 79.4,44.1C78.8,45.9 78.2,47.9 77,49.5C72.2,55.8 68.8,62.5 68.7,70.8C68.7,72.8 66.1,74.7 63.9,76.9C58.7,78.3 54.3,79.6 49.8,80.8z"></path> <path fill="currentColor" d="M67.7,82.1C67,84.7 66.2,87.4 65.2,90.8C64.9,90.5 65.7,91 66,91.7C66.6,93.2 66.9,94.8 67.4,96.4C65.5,96.3 62.8,97 62,96C58.1,91.6 53.3,91.7 48.2,91.9C46.2,91.9 44.1,92.3 42.3,91.7C40.7,91.2 39.5,89.5 38.1,88.3C39.5,87.2 40.9,85.4 42.4,85.2C46.6,84.7 50.8,85.1 54.9,84.9C56.8,84.9 58.7,84.2 61.2,83.4C63.7,82.7 65.7,82.4 67.7,82.1z"></path> <path fill="currentColor" d="M41,41C43.3,44.6 45.5,48.1 47.9,51.6C49.1,53.4 50.9,55.4 48.2,57C47.2,57.6 44.6,56.8 43.5,55.8C38.5,51.3 34.6,46.1 35.4,38.6C37.5,39.2 39.2,40.1 41,41z"></path> <path fill="currentColor" d="M50.8,32.1C50.3,33.8 49.4,35.2 48.3,36.9C46.6,36.7 45.2,36.4 43.2,35.8C41.4,34.3 40.1,33.1 38.9,31.9C42.8,28.4 46.6,28.5 50.8,32.1z"></path> <path fill="currentColor" d="M67.6,81.8C65.7,82.4 63.7,82.7 61.4,83C57.5,82.3 54.1,81.7 50.2,80.9C54.3,79.6 58.7,78.3 63.6,77C65.2,78.5 66.4,80 67.6,81.8z"></path> <path fill="currentColor" d="M38.6,32.1C40.1,33.1 41.4,34.3 42.9,35.8C42.4,37.5 41.7,38.9 41,40.7C39.2,40.1 37.5,39.2 35.5,38.1C36.2,36.1 37.3,34.2 38.6,32.1z"></path> </svg> EA Forum </a> <a class="cfi-pill" href="https://www.facebook.com/100085238232043"> <svg width="13" height="13" viewbox="0 0 24 24" fill="currentColor"> <path d="M24 12.073c0-6.627-5.373-12-12-12s-12 5.373-12 12c0 5.99 4.388 10.954 10.125 11.854v-8.385H7.078v-3.47h3.047V9.43c0-3.007 1.792-4.669 4.533-4.669 1.312 0 2.686.235 2.686.235v2.953H15.83c-1.491 0-1.956.925-1.956 1.874v2.25h3.328l-.532 3.47h-2.796v8.385C19.612 23.027 24 18.062 24 12.073z"></path> </svg> Facebook </a> <a class="cfi-pill" href="https://bsky.app/profile/compassionate-future.org"> <svg width="13" height="13" viewbox="0 0 24 24" fill="currentColor"> <path d="M12 10.8c-1.087-2.114-4.046-6.053-6.798-7.995C2.566.944 1.561 1.266.902 1.565.139 1.908 0 3.08 0 3.768c0 .69.378 5.65.504 6.479.136.908.564 3.693 3.235 3.374 2.737-.325 3.508-1.618 3.845-2.456-.15 2.535-.624 6.485-5.518 9.335-1.61.932-.697 1.5 1.108 1.5 2.318 0 5.288-1.168 7.826-5z"></path> <path d="M12 10.8c1.087-2.114 4.046-6.053 6.798-7.995C21.434.944 22.439 1.266 23.098 1.565c.763.343.902 1.515.902 2.203 0 .69-.378 5.65-.504 6.479-.136.908-.564 3.693-3.235 3.374-2.737-.325-3.508-1.618-3.845-2.456.15 2.535.624 6.485 5.518 9.335 1.61.932.697 1.5-1.108 1.5-2.318 0-5.288-1.168-7.826-5z"></path> </svg> Bluesky </a> <a class="cfi-pill" href="https://substack.com/@compassionatefutureinitiative"> <svg width="13" height="13" viewbox="0 0 24 24" fill="currentColor"> <path d="M22.539 8.242H1.46V5.406h21.08v2.836zM1.46 10.812V24L12 18.11 22.54 24V10.812H1.46zM22.54 0H1.46v2.836h21.08V0z"></path> </svg> Substack </a></div>
+</div>
+<div class="cfi-comm-card cfi-comm-card-events">
+<p class="cfi-comm-tag">Events &amp; updates</p>
+<div class="cfi-pill-group"><a class="cfi-pill" href="https://compassionate-future.org/news-updates-and-events/"> <svg width="13" height="13" viewbox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"> <rect x="3" y="4" width="18" height="18" rx="2" ry="2"></rect> <line x1="16" y1="2" x2="16" y2="6"></line> <line x1="8" y1="2" x2="8" y2="6"></line> <line x1="3" y1="10" x2="21" y2="10"></line> </svg> News, updates &amp; events </a></div>
+</div>
+</div>
+</div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Start Your Impact Journey </title>
         <author>
@@ -932,363 +969,6 @@
 <p class="c8 c10 c18"><a href="#ftnt_ref67" id="ftnt67" style="font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">[67]</a><span class="c4" style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);"> Bostrom, Nick, and Toby Ord. “The Reversal Test: Eliminating Status Quo Bias in Applied Ethics.” </span><span class="c0" style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">Ethics</span><span class="c3" style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);"> 116, no. 4 (2006): 656–79. <a href="https://doi.org/10.1086/505405">https://doi.org/10.1086/505405</a>.</span></p>
 <p><span style="color: #95a5a6;"><span style="font-weight: 400;">This article was first published on </span><span style="font-weight: 400;">13 Jun 2025</span><span style="font-weight: 400;">.</span></span></p>
 </div>
-<p> </p>
-</div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Interventions against Suffering</title>
-        <author>
-            <name>by Ruth Seleo</name>
-        </author>
-        <link href="https://compassionate-future.org/intervention-mindmap-against-suffering/"/>
-        <id>https://compassionate-future.org/intervention-mindmap-against-suffering/</id>
-
-        <updated>2021-12-13T14:08:16+01:00</updated>
-            <summary>
-                <![CDATA[
-                    Interventions against Suffering "The best way to predict the future is to create it." ~ Abraham Lincoln (Click here to see the mind map in full) The intervention mind map is for people looking for ways to contribute to the cause. It gives a wide&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <div class="post-with-toc">
-<h3 id="mcetoc_1i5an0dhpb" class="align-left">Interventions against Suffering</h3>
-<p id="mcetoc_1g3e1bgja2u" class="align-left"></p>
-<p class="align-left">"The best way to predict the future is to create it."<br>~ Abraham Lincoln </p>
-<div class="post__iframe"><iframe loading="lazy" width="500" height="500" style="border: 1px solid #d0d0d0; border-radius: 6px;" src="https://www.mindomo.com/mindmap/06-suffering_abolition_finding-your-niche-of-engagement_from-first-steps-to-career-forming-04f1268992ee4221800ebf77e2884657" frameborder="0" allowfullscreen="allowfullscreen">Your browser does not support frames. <a href="https://www.mindomo.com/mindmap/054-suffering_abolition_finding-your-niche-of-engagement_from-first-steps-to-career-forming-copy-1124f34e4b084d55a93d7755c881150b" target="_blank">View</a> this map on its original site. It was created using <a href="https://www.mindomo.com" target="_blank">Mindomo</a>.</iframe></div>
-<p class="align-center">(Click <a href="https://www.mindomo.com/mindmap/06-suffering_abolition_finding-your-niche-of-engagement_from-first-steps-to-career-forming-04f1268992ee4221800ebf77e2884657">here</a> to see the mind map in full)</p>
-<div class="post__toc">
-<h3>Table of Contents: Interventions against Suffering</h3>
-<ul>
-<li><a href="#mcetoc_1g3e1bgja30">Introduction</a></li>
-<li><a href="#mcetoc_1g3e1bgja31">Finding your niche of engagement - From first steps to career forming</a>
-<ul>
-<li><a href="#mcetoc_1g3e1bgja32">Advocacy / Raising awareness / Education / Publicity</a></li>
-<li><a href="#mcetoc_1g3e1bgja33">Influencing policy making </a></li>
-<li><a href="#mcetoc_1g3e1bgja34">Research</a></li>
-<li><a href="#mcetoc_1g3e1bgja35">Capacity building </a></li>
-<li><a href="#mcetoc_1g3e1bgja36">Enterprises / institutions</a></li>
-</ul>
-</li>
-</ul>
-</div>
-<h3 id="mcetoc_1g3e1bgja30">Introduction</h3>
-<p><span style="font-weight: 400;">The intervention mind map is for people looking for ways to contribute to the cause. It gives a wide variation of ideas for engagement for those who are </span></p>
-<ul>
-<li><span style="font-weight: 400;">rather new to suffering abolitionism and want to explore more, </span></li>
-<li><span style="font-weight: 400;"> in a career exploration phase or </span></li>
-<li><span style="font-weight: 400;">with an already sophisticated professional background looking to contribute with their expertise. </span></li>
-</ul>
-<p><span style="font-weight: 400;">Interventions are not clustered by specific causes of suffering, like the one before, but by fields of expertise, interest and personal fit of potential contributors. These interventions are much more diverse, as there are much more ways to contribute to the mission than there are causes of suffering.</span></p>
-<p><span style="font-weight: 400;">Note that assessing and prioritising personal fit are far more important than trying to make an objective initiative prioritisation (unless it is about funding): </span></p>
-<p><strong>I'd advise anyone to try out as much as possible to learn about one's skills and weaknesses and how to utilise them, as well as what increases / decreases one’s motivation and wellbeing.</strong></p>
-<h3 id="mcetoc_1g3e1bgja31"><strong><span style="color: #bad5d5;">Finding your niche of engagement - <br></span></strong><strong><span style="color: #bad5d5;">From first steps to career forming</span></strong></h3>
-<p><span style="font-weight: 400;">To help aspiring suffering abolitionists finding their niche of engagement, I group initiatives into five categories:</span></p>
-<p style="padding-left: 40px;"><span style="font-weight: 400; color: #a087b3;">1. Advocacy / Raising awareness / Education / Publicity</span></p>
-<p style="padding-left: 40px;"><span style="font-weight: 400; color: #cfbd83;">2. Influencing policy making</span></p>
-<p style="padding-left: 40px;"><span style="font-weight: 400; color: #aac78b;">3. Research</span></p>
-<p style="padding-left: 40px;"><span style="font-weight: 400; color: #ba8484;">4. Capacity building</span></p>
-<p style="padding-left: 40px;"><span style="font-weight: 400; color: #7e96d5;">5. Enterprises / institutions</span></p>
-<h4 id="mcetoc_1g3e1bgja32"><strong><span style="color: #a087b3;">Advocacy / Raising awareness / Education / Publicity</span></strong></h4>
-<p><span style="font-weight: 400;">In the following, it will be discussed how to increase the public’s and policy makers’ concern for sentient beings and their welfare. Ambitious and futuristic ideas are often experienced by the public as concerning or even threatening, despite their potential to increase health and wellbeing (see also <a href="https://en.wikipedia.org/wiki/Status_quo_bias">status quo bias</a>). Education and exposure (normalisation) can significantly increase acceptance of new welfare approaches for all sentient beings. Also open recognition of dangers and risks together with strategies to mitigate these risks are important to gain acceptance. </span></p>
-<p><span style="font-weight: 400;">There are plenty of ways to increase awareness of suffering and increase support for suffering abolition: </span></p>
-<ul>
-<li style="font-weight: 400;" aria-level="1">Participating in or organising meetups<span style="font-weight: 400;"> helps to exchange ideas and increase understanding of and concern for discussed topics.</span>
-<ul>
-<li style="margin: 10px; font-weight: 400;" aria-level="3"><span style="font-weight: 400;">For meetups and events, one could </span>prepare talks or workshops<span style="font-weight: 400;"> to raise awareness on the philosophy and moral importance of suffering abolition.</span></li>
-<li style="margin: 10px; font-weight: 400;" aria-level="3"><span style="font-weight: 400;">T</span>alks can be as simple as a summary of already existing content.</li>
-<li style="margin: 10px; font-weight: 400;" aria-level="3">To increase outreach, one might also <span style="font-family: var(--editor-font-family); font-size: inherit;">record more advanced meetups and events</span><span style="font-weight: 400;"> and </span><span style="font-family: var(--editor-font-family); font-size: inherit;">share them via YouTube</span><span style="font-weight: 400;">.</span></li>
-<li style="margin: 10px; font-weight: 400;" aria-level="3"><span style="font-weight: 400;">Furthermore, one can </span>motivate joint work on high impact interventions<span style="font-weight: 400;"> or respective </span>career planning<span style="font-weight: 400;">. </span></li>
-<li style="margin: 10px; font-weight: 400;" aria-level="3"><span style="font-weight: 400;">Groups and meetups to join can be about politics, effective altruism, animal rights and veganism, (trans-)humanism, anti-natalism and related topics. </span></li>
-</ul>
-</li>
-<li><span style="font-weight: 400;">One can also </span>share resources <span style="font-weight: 400;">on online platforms, or via flyers that </span>raise awareness <span style="font-weight: 400;">on suffering, </span>encourage moral circle expansion<span style="font-weight: 400;"> and </span>educate on interventions<span style="font-weight: 400;">. </span>
-<ul>
-<li style="margin: 10px;"><span style="font-weight: 400;">'Liking' respective material throughout social media increases traction and motivates the authors. Cross-post resources where there might be a relevant audience, such as other activist groups or organisations (e.g. political parties, NGOs and educational and youth groups). </span>If you have capacities, raise awareness about suffering abolition with your own work. Remember to avoid being spammy and always maintain an attitude of service, not demand or judgement.</li>
-<li style="margin: 10px; font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Another option could be starting or participating in </span>newsletters, with updates on projects <span style="font-weight: 400;">in the abolitionist community and with related news and opportunities. </span></li>
-<li style="margin: 10px; font-weight: 400;" aria-level="1"><span style="font-weight: 400;">People can facilitate </span>translations of suffering abolitionist literature / articles<span style="font-weight: 400;">. A valuable resource to translate (including the audio version) would be “Can Biotechnology Abolish Suffering?” by David Pearce. </span></li>
-</ul>
-</li>
-<li><span style="font-weight: 400;">People into </span>art and media<span style="font-weight: 400;"> could use their abilities to raise awareness and </span>influence cultural change<span style="font-weight: 400;">. </span><br>
-<ul>
-<li><span style="font-weight: 400;">We can foster such a change via illustrations, memes, stories, blogs, video clips, short films, music etc. by creating awareness and differential understanding of the suffering abolitionist values and approaches.</span>
-<ul>
-<li><span style="font-weight: 400;">Examples: Helping people become open minded about abolishing predation: Make / share compilations of (wild) carnivores befriended with their prey (see e.g. The Dodo’s series </span><a href="https://www.thedodo.com/series/odd-couples"><span style="font-weight: 400;">“Odd Couples”</span></a><span style="font-weight: 400;">). Share them with the suffering abolition community and incorporate them in your presentations / campaigns.</span></li>
-</ul>
-</li>
-<li style="margin: 10px;"><span style="font-weight: 400;">An influential resource could also be an</span>(online) magazine<span style="font-weight: 400;">, covering topics related to suffering abolitionism / compassionate transhumanism via articles, news, opinion pieces and content from the community.<br>Format examples: <a href="https://www.wired.com/"><span style="font-weight: 400;">Wired</span></a><span style="font-weight: 400;">, </span><a href="https://www.vox.com/"><span style="font-weight: 400;">Vox</span></a><span style="font-weight: 400;">, </span><a href="https://www.freethink.com/"><span style="font-weight: 400;">Freethink</span><span style="font-weight: 400;">, </span></a><a href="https://neo.life"><span style="font-weight: 400;">NEO.LIFE</span></a><span style="font-weight: 400;">; </span> <br>Initiative example: Nil’s <a href="https://docs.google.com/document/d/1yD-qE4RVl0wbcbxuKjaC5lLMnZQXZfat6tcJyTjt17U/"><span style="font-weight: 400;">abolitionist magazine proposal</span></a><span style="font-weight: 400;"> (please comment in the doc if you may be interested in moving the project forward!)</span></span></li>
-<li style="margin: 10px;">Development and promotion of high quality pedagogical / educational art and media fostering the development of compassion, self-reflexion, communication, critical and rational thinking. <span style="color: #000000;">Examples (non-SAbo related):</span><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit;"> </span><a href="https://www.theschooloflife.com/" style="font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">The School of Life</a><span style="font-weight: 400;">, </span><a href="https://www.schoolofthought.org/" style="font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">School of Thought</a><span style="font-weight: 400;"> and the </span><a href="https://www.rationality.org/" style="font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">Center for Applied Rationality</a></li>
-</ul>
-</li>
-</ul>
-<h4 id="mcetoc_1g3e1bgja33"><strong><span style="font-family: var(--editor-font-family); font-size: inherit; color: #cfbd83;">Influencing policy making </span></strong></h4>
-<p><span style="font-weight: 400;">Policies influence society, including setting new norms and practices and defining what is a </span><i><span style="font-weight: 400;">mal</span></i><span style="font-weight: 400;">practice. </span><span style="font-weight: 400;">Even policies that don’t have immediate suffering abolitionist effects can greatly influence potential for (future) projects. </span></p>
-<p><span style="font-weight: 400;">In the subsections below promising policy and lobbying ideas are listed.</span></p>
-<ul>
-<li style="padding-bottom: 10px;">Promoting fertility control for ‘pests’, stray pets and wildlife: <br>The greatest potential for a compassionate, non-invasive, easily scalable, persistent and reversible approach to population control is fertility control. It should therefore be promoted as opposition to poisoning and predation against ‘pest’ or population control of wild animals. It not just reduces their burden on the environment, but also heavily reduces their struggle for resources. <span style="font-weight: 400;"> <br>A promising fertility control approach is immunocontraception. </span><br><br>Further Information on fertility control:
-<ul>
-<li><span style="font-weight: 400;">For rodents: </span>
-<ul>
-<li style="margin: 10px;"><a href="https://www.pctonline.com/article/rodent-fertility-control-why-important/"><span style="font-weight: 400;">Rodent Fertility Control: What It Is and Why It’s Important</span></a></li>
-<li style="margin: 10px;"><a href="https://www.researchgate.net/profile/Shane_Siers/publication/323846449_Evaluation_of_ContraPest_fertility_control_on_black_rats_Laboratory_Evaluation_of_the_Effectiveness_of_the_Fertility_Control_Bait_ContraPest_R_on_Wild-captured_Black_Rats_Rattus_rattus/links/5aaf2cc8aca2721710fc507a/Evaluation-of-ContraPest-fertility-control-on-black-rats-Laboratory-Evaluation-of-the-Effectiveness-of-the-Fertility-Control-Bait-ContraPest-R-on-Wild-captured-Black-Rats-Rattus-rattus.pdf"><span style="font-weight: 400;">Laboratory Evaluation of the Effectiveness of the Fertility Control</span></a></li>
-<li style="margin: 10px;"><a href="https://www.researchgate.net/profile/Shane_Siers/publication/323846449_Evaluation_of_ContraPest_fertility_control_on_black_rats_Laboratory_Evaluation_of_the_Effectiveness_of_the_Fertility_Control_Bait_ContraPest_R_on_Wild-captured_Black_Rats_Rattus_rattus/links/5aaf2cc8aca2721710fc507a/Evaluation-of-ContraPest-fertility-control-on-black-rats-Laboratory-Evaluation-of-the-Effectiveness-of-the-Fertility-Control-Bait-ContraPest-R-on-Wild-captured-Black-Rats-Rattus-rattus.pdf"><span style="font-weight: 400;">Bait ContraPest® on Wild-captured Black Rats</span></a></li>
-</ul>
-</li>
-<li><span style="font-weight: 400;">For insects:</span><br>
-<ul>
-<li style="font-weight: 400; margin: 10px;" aria-level="2"><a href="http://www.fao.org/english/newsroom/highlights/1998/980505-e.htm"><span style="font-weight: 400;">Tsetse fly eradicated on the Island of Zanzibar</span></a></li>
-<li style="font-weight: 400; margin: 10px;" aria-level="2"><a href="https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/sterile-insect-technique"><span style="font-weight: 400;">Sterile Insect Technique</span></a></li>
-</ul>
-</li>
-<li><span style="font-weight: 400;">For wildlife: </span><br>Particularly overpopulating species e.g. deer, wild boar, rabbits and pigeons and neobiota / ‘invasive’ species:<br>
-<ul>
-<li style="font-weight: 400; margin: 10px;" aria-level="1"><a href="https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1038&amp;context=birdstrike2006"><span style="font-weight: 400;">Nicarbazin: an avian reproductive inhibitor for pigeons and geese</span></a></li>
-<li style="font-weight: 400; margin: 10px;" aria-level="1"><a href="https://academic.oup.com/jas/article/97/6/2283/5315755?fbclid=IwAR14Qgsujkjwo7iaOP4RDL6kQsgn2t00LGa2yNpvEpMs-7ev9zU2MnXWkc8&amp;login=false"><span style="font-weight: 400;">Immunocontraception for feral pigs</span></a></li>
-<li style="font-weight: 400; margin: 10px;" aria-level="1"><a href="https://s3-eu-west-1.amazonaws.com/media.squirrelaccord.uk/2021/06/UKSA_fertility_control_research_FAQs_June_2021_-_research_-_UK_Squirrel_Accord.pdf?fbclid=IwAR3azCK1WdifaZ-6lfyC_TQN-_FJELvNaIlgQho_xNfSDCZJxTANfbNBUWQ"><span style="font-weight: 400;">Grey squirrel fertility control</span></a></li>
-<li style="font-weight: 400; margin: 10px;" aria-level="1"><a href="https://was-research.org/paper/intervention-report-wildlife-contraception/"><span style="font-weight: 400;">Intervention Report: Wildlife Contraception</span></a></li>
-<li style="font-weight: 400; margin: 10px;" aria-level="1"><a href="https://link.springer.com/article/10.1016/j.mambio.2007.05.011"><span style="font-weight: 400;">Wildlife Contraception - Issues, Methods, and Applications</span></a></li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-<p style="padding-left: 90px; margin: 0px;">'Dangerous species' e.g. parasites, carnivores, disease transmitting species</p>
-<ul>
-<li style="list-style-type: none;">
-<ul>
-<li style="list-style-type: none;">
-<ul>
-<li style="margin: 10px; padding-top: -1px;"><a href="https://en.wikipedia.org/wiki/Predator_Free_2050">Predator Free 2050</a></li>
-</ul>
-</li>
-</ul>
-</li>
-<li>Removing dependency on animal products:<br>Implementing / promoting usage of animal-free alternative products (including  the foot-in-the-door approach: promoting acknowledgement of animal sentience and the problem of animal suffering)
-<ul>
-<li style="margin: 10px;"><span style="font-weight: 400;">Making cellular agriculture research and production independent of bovine calf serum</span></li>
-<li style="margin: 10px;"><span style="font-weight: 400;">Lobbying for vegan dishes in kindergartens / schools / public institutions and events; ensuring regulations that enable public facilities to become vegan in the first place. Schools and kindergarten are particularly important institutions, as they strongly influence the next generation's habits. </span></li>
-</ul>
-</li>
-<li><span style="font-weight: 400;">Lobbying for animal rights</span><br>
-<ul>
-<li style="font-weight: 400; margin: 10px;" aria-level="2"><span style="font-weight: 400;">Anti-speciesist approach to rights: what matters is not ‘humanness’, nor intelligence, but the ability to suffer</span></li>
-<li style="font-weight: 400; margin: 10px;" aria-level="2"><span style="font-weight: 400;">Acknowledgement of sentient entities as entities requiring rights protected by law, with the long term goal of a sentience welfare system.</span></li>
-<li style="margin: 10px;"><span style="font-weight: 400;">Right to have interests represented by independent qualified allies</span></li>
-</ul>
-</li>
-<li style="margin: 10px;"><span style="font-weight: 400;">Improving education </span><br><span style="font-weight: 400;">Pedagogical interventions and educational strategies for children and young adults shape behaviour of the next generation and is therefore a high impact field of engagement. High quality education </span><span style="font-weight: 400;">can significantly benefit physical and mental health, decision-making, career performance, and social impact. Therefore, it is crucial to incorporate m</span><span style="font-weight: 400;">oral pedagogy, mindfulness, reflexion skills, analytical/methodical thinking as well as life skills </span><span style="font-weight: 400;">in educational curricula.</span></li>
-<li style="font-weight: 400; margin: 10px;" aria-level="1"><span style="font-weight: 400;">Maintaining the rule of law and improving decision-making, political systems and jurisdiction. See </span><a href="https://centerforreducingsuffering.org/improving-our-political-system-an-overview/"><span style="font-weight: 400;">further information</span></a><span style="font-weight: 400;"> from the Center for Reducing Suffering.</span></li>
-<li style="font-weight: 400; margin: 10px;" aria-level="1">Genetic welfare for sentient beings: <br><span style="font-weight: 400;"><span style="font-weight: 400;">Lobbying for pre-implantation diagnostics and embryonic stem cell research is important to enable research for a future genetic welfare program. We need to promote laws that regulate applications of genetic enhancement of sentient beings and ensure access to genetic welfare. In laws and regulations on genetic welfare applications, benefits and risks to the society, communities and the individual (no matter what species) need to be considered. </span></span>
-<ul>
-<li style="font-weight: 400; margin: 10px;" aria-level="1"><span style="font-weight: 400;"><span style="font-weight: 400;">We need advocation that genetic maintenance or enhancement of physical and mental abilities and resilience should not be applied without consideration of social attributes. Instead, we need to advocate that high compassion capacities and moral considerateness on a genetic level needs to always be ensured as part of pre-implantation genetic interventions.</span></span><span style="font-weight: 400; margin: 10px;"><br><br></span>For <span style="font-weight: 400;">further readings on ethical aspects of genetic enhancement</span>, see: <br>
-<ul>
-<li>
-<div style="text-indent: -36px; padding-left: 36px;">Allhoff, F., Lin, P., Moor, J., &amp; Weckert, J. (2010). Ethics of Human Enhancement: 25 Questions &amp; Answers. <i>Studies in Ethics, Law, and Technology</i>, <i>4</i>. https://doi.org/10.2202/1941-6008.1110</div>
-<br>
-<div style="text-indent: -36px; padding-left: 36px;">Douglas, T. (2008). Moral Enhancement. <i>Journal of Applied Philosophy</i>, <i>25</i>(3), 228–245. https://doi.org/10.1111/j.1468-5930.2008.00412.x</div>
-<br>
-<div style="text-indent: -36px; padding-left: 36px;">Sandberg, A., &amp; Fabiano, J. (2017). Modeling the Social Dynamics of Moral Enhancement: Social Strategies Sold Over the Counter and the Stability of Society. <i>Cambridge Quarterly of Healthcare Ethics: CQ: The International Journal of Healthcare Ethics Committees</i>, <i>26</i>(3), 431–445. https://doi.org/10.1017/S0963180116001109</div>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-<ul>
-<li><span style="font-weight: 400;">Establishing public funds, prizes and contests for research contributing to abolishing suffering. </span><br>Animal free biotechnological / biomedical research and testing need more public promotion:</li>
-</ul>
-<ul>
-<li style="list-style-type: none;">
-<ul>
-<li><span style="font-weight: 400;">Making cellular agriculture research and production independent from bovine calf serum.</span><a href="https://nc3rs.org.uk/the-3rs"></a></li>
-<li><a href="https://nc3rs.org.uk/the-3rs"><span style="font-weight: 400;">Reduce, Refine, Replace</span></a></li>
-</ul>
-</li>
-</ul>
-<h4 id="mcetoc_1g3e1bgja34"><strong><span style="color: #aac78b;">Research</span></strong></h4>
-<p><span style="font-weight: 400;">To increase wellbeing for all sentient beings and minimise risks of future suffering, we need develop a broad range of new technologies. </span></p>
-<ul>
-<li>Fertility control has been <span style="font-weight: 400;">mentioned in “Influencing policy making” section before, but of course it is also a very important research topic, as we need to develop </span><span style="font-weight: 400;">compassionate, </span><span style="font-weight: 400;">non-invasive, easily scalable, persistent and reversible applications in a suffering abolitionist approach.<br><br></span>Recent research developments on fertility control:
-<ul>
-<li><span style="font-weight: 400;">For rodents: </span><br>
-<ul>
-<li style="margin: 10px;"><a href="https://www.pctonline.com/article/rodent-fertility-control-why-important/"><span style="font-weight: 400;">Rodent Fertility Control: What It Is and Why It’s Important</span></a></li>
-<li style="margin: 10px;"><a href="https://www.researchgate.net/profile/Shane_Siers/publication/323846449_Evaluation_of_ContraPest_fertility_control_on_black_rats_Laboratory_Evaluation_of_the_Effectiveness_of_the_Fertility_Control_Bait_ContraPest_R_on_Wild-captured_Black_Rats_Rattus_rattus/links/5aaf2cc8aca2721710fc507a/Evaluation-of-ContraPest-fertility-control-on-black-rats-Laboratory-Evaluation-of-the-Effectiveness-of-the-Fertility-Control-Bait-ContraPest-R-on-Wild-captured-Black-Rats-Rattus-rattus.pdf"><span style="font-weight: 400;">Laboratory Evaluation of the Effectiveness of the Fertility Control</span></a></li>
-<li style="margin: 10px;"><a href="https://www.researchgate.net/profile/Shane_Siers/publication/323846449_Evaluation_of_ContraPest_fertility_control_on_black_rats_Laboratory_Evaluation_of_the_Effectiveness_of_the_Fertility_Control_Bait_ContraPest_R_on_Wild-captured_Black_Rats_Rattus_rattus/links/5aaf2cc8aca2721710fc507a/Evaluation-of-ContraPest-fertility-control-on-black-rats-Laboratory-Evaluation-of-the-Effectiveness-of-the-Fertility-Control-Bait-ContraPest-R-on-Wild-captured-Black-Rats-Rattus-rattus.pdf"><span style="font-weight: 400;">Bait ContraPest® on Wild-captured Black Rats</span></a></li>
-</ul>
-</li>
-<li><span style="font-weight: 400;">For insects:</span><br>
-<ul>
-<li style="font-weight: 400; margin: 10px;" aria-level="2"><a href="http://www.fao.org/english/newsroom/highlights/1998/980505-e.htm"><span style="font-weight: 400;">Tsetse fly eradicated on the Island of Zanzibar</span></a></li>
-<li style="font-weight: 400; margin: 10px;" aria-level="2"><a href="https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/sterile-insect-technique"><span style="font-weight: 400;">Sterile Insect Technique</span></a></li>
-</ul>
-</li>
-<li><span style="font-weight: 400;">For wildlife: </span><br>Particularly overpopulating species e.g. deer, wild boar, rabbits and pigeons and neobiota / ‘invasive’ species:<br>
-<ul>
-<li style="font-weight: 400; margin: 10px;" aria-level="1"><a href="https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1038&amp;context=birdstrike2006"><span style="font-weight: 400;">Nicarbazin: an avian reproductive inhibitor for pigeons and geese</span></a></li>
-<li style="font-weight: 400; margin: 10px;" aria-level="1"><a href="https://academic.oup.com/jas/article/97/6/2283/5315755?fbclid=IwAR14Qgsujkjwo7iaOP4RDL6kQsgn2t00LGa2yNpvEpMs-7ev9zU2MnXWkc8&amp;login=false"><span style="font-weight: 400;">Immunocontraception for ferral pigs</span></a></li>
-<li style="font-weight: 400; margin: 10px;" aria-level="1"><a href="https://s3-eu-west-1.amazonaws.com/media.squirrelaccord.uk/2021/06/UKSA_fertility_control_research_FAQs_June_2021_-_research_-_UK_Squirrel_Accord.pdf?fbclid=IwAR3azCK1WdifaZ-6lfyC_TQN-_FJELvNaIlgQho_xNfSDCZJxTANfbNBUWQ"><span style="font-weight: 400;">Grey squirrel fertility control</span></a></li>
-<li style="font-weight: 400; margin: 10px;" aria-level="1"><a href="https://was-research.org/paper/intervention-report-wildlife-contraception/"><span style="font-weight: 400;">Intervention Report: Wildlife Contraception</span></a></li>
-<li style="font-weight: 400; margin: 10px;" aria-level="1"><a href="https://link.springer.com/article/10.1016/j.mambio.2007.05.011"><span style="font-weight: 400;">Wildlife Contraception - Issues, Methods, and Applications</span></a></li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-<p style="padding-left: 90px; margin: 0px;">'Dangerous species' e.g. parasites, carnivores, disease transmitting species</p>
-<ul>
-<li style="list-style-type: none;">
-<ul>
-<li style="list-style-type: none;">
-<ul>
-<li style="margin: 10px; padding-top: -1px;"><a href="https://en.wikipedia.org/wiki/Predator_Free_2050">Predator Free 2050</a></li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-<ul>
-<li style="margin: 10px;">
-<p><span style="font-weight: 400;">Genetic health research for sentient beings </span></p>
-<ul>
-<li style="margin: 10px;"><span style="font-weight: 400;">The most benefit of pre-implantation diagnostics and embryonic stem cell research may come from applying them to securing and increasing physical/mental resilience, compassion traits and cognitive/learning abilities.</span></li>
-<li style="margin: 10px;">
-<p><span style="font-weight: 400;">To avoid abuse of and public distrust in according research, we need to implement an ethical code and an according research supervision system. The ethical code needs to entail that genetic alterations should be reversible, positively impact the individual’s life experience and optimise social implications for affected sentient beings in the environment.</span></p>
-</li>
-<li style="font-weight: 400; margin: 10px;" aria-level="2"><span style="font-weight: 400;">Example: </span><a href="https://www.hedweb.com/social-media/postdarwinian.pdf?page=8"><span style="font-weight: 400;">FAAH &amp; FAAH-OUT genes</span></a></li>
-</ul>
-</li>
-<li style="margin: 10px;">Moral development and compassion research as well as their genetic foundations <span style="font-weight: 400;">is also a very important research topic</span></li>
-<li style="margin: 10px;">Academic journal<br>Establishing an academic journal for suffering abolitionist topics would
-<ul>
-<li style="margin: 10px;">help with the evaluation of (biotechnological) research papers in regard to their (potential) contribution to suffering abolition,</li>
-<li style="margin: 10px;"><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit;">spread knowledge on new insights and potential for applications and</span></li>
-<li style="margin: 10px;"><span style="font-weight: 400;"><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit;">promote the needed research itself.<br></span><br></span><span style="font-weight: 400;">The journal could check: </span>
-<ol>
-<li style="margin: 10px;"><span style="font-weight: 400;"> whether papers are specifically aiming for suffering abolition / promoting the concept of suffering abolition,</span></li>
-<li style="margin: 10px;">whether the research approach is ethical,</li>
-<li style="margin: 10px;">whether research/technological enhancement is (potentially) valuable for the suffering abolition, and</li>
-<li style="margin: 10px;">whether the research has low risk for creating suffering (through abuse, lack of control, etc).</li>
-</ol>
-</li>
-</ul>
-</li>
-<li style="margin: 10px;"><span style="font-weight: 400;">Technology </span><br>Research on technologies for environmental design and atmosphere regulation. Particularly, human wellbeing needs to become independent of wild nature, to become able to acknowledge the problem of wild nature and its causes of suffering. For example, making atmosphere maintenance and improvement independent of plants, reduces the naive spreading of biospheres unattached to welfare systems for the sentient inhabitants.</li>
-<li style="margin: 10px;"><span style="font-weight: 400;">Ageing research </span><br>Since ageing is a process of slow and deadly decay of body and mind, preventing ageing means improving health and wellbeing.</li>
-<li style="font-weight: 400; margin: 10px;" aria-level="1">Artificial general intelligence (AGI) research<br>AI will eventually be better at anything than humans will ever be. Before a  potential AGI emerges, we need to work on ways to ensure that it will be guided by compassion for all sentient beings. A lot of research is being done on AI in general, but suffering-related concerns are not always part of such research. For suffering concerned AI research, check out the Center on Long-Term Risk. </li>
-<li style="font-weight: 400; margin: 10px;" aria-level="1">Sentience research<br>In order to be able to address all suffering research is needed on <span style="font-weight: 400;">how to identify/measure sentience in entities with very different expressions and behaviours.<br></span>Secondly, there is still a lot to uncover about the nature of sentience/consciousness.</li>
-<li style="font-weight: 400; margin: 10px;" aria-level="1">Physics<br>What does physics tell us about the long-term future of the universe?</li>
-</ul>
-<h4 id="mcetoc_1g3e1bgja35"><strong><span style="font-family: var(--editor-font-family); font-size: inherit; color: #ba8484;">Capacity building</span></strong><strong style="font-family: var(--editor-font-family); font-size: inherit;"> </strong></h4>
-<p><span style="font-weight: 400;">Workforce is needed to</span><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);"> grow the community and attract a diverse audience of ambitious and talented people</span><span style="font-weight: 400;">. To promote suffering abolitionist goals and work collaboratively, </span><span style="font-weight: 400;">we need platforms for fostering exchange within the community, as well as platforms for collaborating with policy makers, industry and research. </span><span style="font-weight: 400;">And of course we need funding.  </span></p>
-<ul>
-<li style="margin: 10px;"><span style="font-weight: 400;">Besides the suffering abolitionist </span><a href="https://discord.gg/nwZfQ9A"><span style="font-weight: 400;">Discord</span></a><span style="font-weight: 400;"> and meetups, one can join meetups from political groups/parties, effective altruism, animal rights and vegan activists, (trans-)humanism, anti-natalism and so on.</span>
-<ul>
-<li style="font-weight: 400; margin: 10px;" aria-level="3"><span style="font-weight: 400;">One can contribute to such meetups and events with prepared talks and workshops on topics that motivate concern on suffering and increase understanding on suffering abolitionist approaches and initiatives.</span></li>
-<li style="font-weight: 400; margin: 10px;" aria-level="3"><span style="font-weight: 400;">Talks can be as simple as a summary of already existing content.</span></li>
-<li style="font-weight: 400; margin: 10px;" aria-level="3">One might also record more advanced meetups and events and share them via YouTube to increase outreach.</li>
-<li style="font-weight: 400; margin: 10px;" aria-level="3">Furthermore, one can motivate joint work on high impact interventions or respective career planning. </li>
-</ul>
-<ul>
-<li style="font-weight: 400; margin: 10px;" aria-level="1"><span style="font-weight: 400;">Profession-specific networking and attending conferences can also increase capacity</span></li>
-<li style="font-weight: 400; margin: 10px;" aria-level="1"><span style="font-weight: 400;">As can self-education and study groups, such as</span>
-<ul>
-<li style="font-weight: 400; margin: 10px;" aria-level="3"><span style="font-weight: 400;">Reading groups</span></li>
-<li style="font-weight: 400; margin: 10px;" aria-level="3"><span style="font-weight: 400;">Prioritisation discussions</span></li>
-<li style="font-weight: 400; margin: 10px;" aria-level="3"><span style="font-weight: 400;">Finding a partner to read/watch relevant content together, or attend together events like talks and conferences, and discuss takeaways relevant to one’s own approach.</span></li>
-<li style="margin: 10px;">Fundraising<br>
-<ul>
-<li style="font-weight: 400; margin: 10px;" aria-level="2">One may start simply by using fundraising via FB during holidays, birthdays, match makers.</li>
-<li style="font-weight: 400; margin: 10px;" aria-level="2">For growing the capacity we also need funds, prizes and contests for (research) projects contributing to abolishing suffering.</li>
-</ul>
-</li>
-<li style="margin: 10px;">Job board<br>
-<ul>
-<li style="font-weight: 400; margin: 10px;" aria-level="2"><span style="font-weight: 400;">A job &amp; volunteering board for aspiring abolitionists to build career capital and to contribute directly, similar to what have been established by </span><a href="https://80000hours.org/job-board/"><span style="font-weight: 400;">80,000 Hours</span></a><span style="font-weight: 400;">, </span><a href="https://www.animaladvocacycareers.org/job-board"><span style="font-weight: 400;">Animal Advocacy Careers</span></a><span style="font-weight: 400;"> or </span><a href="https://www.eawork.club/"><span style="font-weight: 400;">EA Work Club</span></a></li>
-</ul>
-</li>
-<li style="margin: 10px;">Newsletter<br>Another option would be starting or participating in newsletters, with updates on projects <span style="font-weight: 400;">in the abolitionist community and with related news and opportunities. </span></li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-<h4 id="mcetoc_1g3e1bgja36"><strong><span style="color: #7e96d5;">Enterprises / institutions</span></strong></h4>
-<p><span style="font-weight: 400;">There is need of workforce in existing organisations as well as need for new start-ups and institutions. Well-organised, joint forces can have great global impact, as can be seen by institutions such as the UN or the World Health Organization. </span></p>
-<ul>
-<li><span style="font-weight: 400;"><strong>Existing organisations</strong><br></span>While there are few explicitly suffering abolitionist organisations, there are multiple organisations whose mission is at least partly aligned with the goal of reducing suffering and increasing wellbeing for all sentient beings. One can follow their work closely to have a better idea of their impact, and subscribe to their job postings to watch for opportunities matching one’s professional profile and personality.
-<ul>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Organisations in the field of education:</span>
-<ul>
-<li style="font-weight: 400; margin: 10px;" aria-level="2"><a href="http://www.rationality.org/"><span style="font-weight: 400;">Center for Applied Rationality</span></a></li>
-<li style="font-weight: 400; margin: 10px;" aria-level="2"><a href="https://www.schoolofthought.co.uk/"><span style="font-weight: 400;">School of Thought</span></a></li>
-</ul>
-</li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Organisations dealing with fertility control:</span>
-<ul>
-<li style="font-weight: 400; margin: 10px;" aria-level="2"><a href="https://senestech.com/"><span style="font-weight: 400;">SenesTech</span></a><span style="font-weight: 400;">: offering rodent fertility control</span></li>
-<li style="font-weight: 400; margin: 10px;" aria-level="2"><a href="https://www.ovocontrol.com/"><span style="font-weight: 400;">OvoControl</span></a><span style="font-weight: 400;">: offering pigeon fertility control</span></li>
-</ul>
-</li>
-<li aria-level="1">Think tanks / research
-<ul>
-<li style="margin: 10px;" aria-level="2"><a href="https://sentience.ch/en/">Sentience Politics</a></li>
-<li style="font-weight: 400; margin: 10px;" aria-level="2"><a href="https://www.animal-ethics.org/">Animal Ethics</a></li>
-<li style="font-weight: 400; margin: 10px;" aria-level="2"><a href="https://www.sentienceinstitute.org/">Sentience Institute</a></li>
-<li style="font-weight: 400; margin: 10px;" aria-level="2"><a href="https://longtermrisk.org/">Center on Long-Term Risk</a></li>
-<li style="font-weight: 400; margin: 10px;" aria-level="2"><a href="https://centerforreducingsuffering.org/">Center for Reducing Suffering</a></li>
-<li style="font-weight: 400; margin: 10px;" aria-level="2"><a href="https://www.invinciblewellbeing.com/">Invincible Wellbeing</a></li>
-<li style="font-weight: 400; margin: 10px;" aria-level="2"><a href="https://www.qualiaresearchinstitute.org/">Qualia Research Institute</a></li>
-<li style="font-weight: 400; margin: 10px;" aria-level="2"><a href="https://www.preventsuffering.org/">Organisation for the Prevention of Intense Suffering</a> (OPIS)</li>
-<li style="font-weight: 400; margin: 10px;" aria-level="2"><a href="https://algosphere.org/">Algosphere Alliance</a></li>
-<li style="font-weight: 400; margin: 10px;" aria-level="2"><a href="https://www.wildanimalinitiative.org/">Wild Animal Initiative</a></li>
-</ul>
-</li>
-<li aria-level="1">Cellular agriculture
-<ul>
-<li style="margin: 10px;" aria-level="2"><span style="font-weight: 400;">For-profit organisations</span>
-<ul>
-<li style="font-weight: 400; margin: 10px;" aria-level="3"><a href="https://gfi.org/resource/contract-manufacturing-database/"><span style="font-weight: 400;">Contract Manufacturing Database</span></a></li>
-<li style="font-weight: 400; margin: 10px;" aria-level="3"><a href="https://gfi.org/resource/alternative-protein-company-database/"><span style="font-weight: 400;">Alternative protein company database</span></a></li>
-</ul>
-</li>
-<li style="font-weight: 400; margin: 10px;" aria-level="2"><span style="font-weight: 400;">Non-profit organisations</span>
-<ul>
-<li style="font-weight: 400; margin: 10px;" aria-level="3"><a href="https://new-harvest.org/"><span style="font-weight: 400;">New Harvest</span></a></li>
-<li style="font-weight: 400; margin: 10px;" aria-level="3"><a href="https://gfi.org/"><span style="font-weight: 400;">Good Food Institute</span></a></li>
-<li style="font-weight: 400; margin: 10px;" aria-level="3"><a href="https://www.cellag.org/"><span style="font-weight: 400;">Cellular Agriculture Society</span></a></li>
-<li style="font-weight: 400; margin: 10px;" aria-level="3"><a href="https://cellularagricultureaustralia.org/"><span style="font-weight: 400;">Cellular Agriculture Australia</span></a></li>
-</ul>
-</li>
-</ul>
-</li>
-<li style="font-weight: 400;" aria-level="2">Transhumanism
-<ul>
-<li style="font-weight: 400; margin: 10px;" aria-level="3"><a href="https://www.betterhumans.org/mission.html"><span style="font-weight: 400;">Betterhumans</span></a></li>
-<li style="font-weight: 400; margin: 10px;" aria-level="3"><a href="https://www.humanityplus.org/"><span style="font-weight: 400;">Humanity+</span></a></li>
-<li style="font-weight: 400; margin: 10px;" aria-level="3"><a href="https://www.transhumanistparty.org.uk/"><span style="font-weight: 400;">Transhumanist UK</span></a></li>
-<li style="font-weight: 400; margin: 10px;" aria-level="3"><a href="https://foresight.org/"><span style="font-weight: 400;">Foresight Institute</span></a></li>
-<li style="font-weight: 400; margin: 10px;" aria-level="3"><a href="https://ieet.org/" style="font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">Institute for Ethics and Emerging Technologies</a><span style="font-weight: 400;"> (IEET)</span></li>
-</ul>
-</li>
-</ul>
-</li>
-<li><span style="font-weight: 400;"><strong>Starting a new organisation</strong><br></span>A riskier and probably more demanding option - but one which can be much more impactful than joining an existing organisation - is to start a new organisation dedicated to abolition of suffering, more specifically.<br><br>If you are interested in starting a new enterprise/institution, you might check out:<br><a href="https://www.charityentrepreneurship.com/" style="font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">Charity Entrepreneurship</a><span style="font-weight: 400;"> and their </span><a href="https://www.charityentrepreneurship.com/post/a-guide-to-increasing-the-impact-of-your-research-by-involving-decision-makers" style="font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">guide to increase the impact of your research by involving decision-makers</a><span style="font-weight: 400;">.<br><br></span>Example ideas of such organisations:
-<ul>
-<li style="font-weight: 400; margin: 10px;" aria-level="1">Advocacy, marketing, fundraising, and research on air cleaning technology: producing oxygen, reducing CO2 and pollution -&gt; making human quality of life independent of nature. <br>For information on the importance see<a href="https://aqli.epic.uchicago.edu/the-index/?fbclid=IwAR2bb_17ub-3QMsN8cdSKFzB9ugcBfd2UOWuXQq1CreBezt2COW6faSQ37A"> the map of life expectancy reduction due to pollution</a> or <a href="https://www.youtube.com/watch?v=IV3dnLzthDA">a video on lead poisoning</a>; <br>For solution approaches <span style="font-weight: 400;">see </span><a href="https://mechanicaltrees.com/mechanicaltrees/"><span style="font-weight: 400;">MechanicalTrees</span></a><span style="font-weight: 400;"> and examples </span><a href="https://qleanair.com/products/air-cleaners/qleanair-fs-10-carbon/"><span style="font-weight: 400;">no. 1</span></a><span style="font-weight: 400;">, and </span><a href="https://www.nbcnews.com/select/shopping/best-air-purifiers-ncna1276411"><span style="font-weight: 400;">no. 2</span></a><span style="font-weight: 400;">.</span></li>
-<li style="font-weight: 400; margin: 10px;" aria-level="1">Production and distribution / sale of non-invasive fertility control products for 'pests' and stray animals.</li>
-<li style="font-weight: 400; margin: 10px;" aria-level="1">A genetic health organisation for all sentient beings, offering conferences, public image campaigns, networking with and lobbying policy makers, research and industry. </li>
-<li style="font-weight: 400; margin: 10px;" aria-level="1">Suffering abolition funds or prizes: see e.g. the <a href="https://www.invinciblewellbeing.com/joshuacefalufund">fund by Invincible Wellbeing et al</a>. as well as <a href="https://docs.google.com/document/d/1Nh9WBjYWu5WCWbWdHLtViCQPuf2TorzVdGFvM98LImQ/edit">Nil’s draft on an abolitionist fund</a></li>
-<li style="font-weight: 400; margin: 10px;" aria-level="1">An academic journal for suffering abolition related papers to evaluate (biotechnological) research papers in regard to their (potential) contribution to suffering abolition.</li>
-<li style="font-weight: 400; margin: 10px;" aria-level="1">A suffering research institute, see Robert Daoust’s <a href="https://docs.google.com/document/d/1cyDnDBxQKarKjeug2YJTv7XNTlVY-v9sQL45-Q2BFac">proposal for an “Institute for the Study of Suffering”</a></li>
-</ul>
-</li>
-</ul>
-<p><span style="font-weight: 400;">As may be expected from entrepreneurship, one’s first serious attempts to start an abolitionist organisation are likely to "fail”: in the end there are many parts to a successful organisation, and just having a good idea is not enough. For example, one also needs a capable team with great culture to pull this off (networking and collaboration thus can be paramount).</span></p>
-<p><span style="font-weight: 400;">Such “failures” (including ones of others), however, are also an opportunity to learn so that one’s next attempt to establish an effective suffering abolitionist organisation is better informed and hence more likely to succeed. Other ways of gaining relevant experience include working in an existing organisation (not necessarily abolition-related) before starting a new one and signing up for an incubator program (see e.g. <a href="https://www.charityentrepreneurship.com/incubation-program">Charity Entrepreneurship’s incubation program</a> aimed at establishing cost-effective intervention-focused charities).</span></p>
-<p class="align-center"><span style="color: #95a5a6;"><span style="font-weight: 400;">This article was first published on </span><span style="font-weight: 400;">26 Apr 2022</span><span style="font-weight: 400;">. Latest significant update was on 02 May 2022. Note that this piece is a work in progress. More resources will follow.</span></span></p>
 <p> </p>
 </div>
             ]]>
