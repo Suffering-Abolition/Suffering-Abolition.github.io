@@ -3,7 +3,7 @@
     <title>CFI | Compassionate Future Initiative</title>
     <link href="https://compassionate-future.org/feed.xml" rel="self" />
     <link href="https://compassionate-future.org" />
-    <updated>2026-05-03T15:01:01+02:00</updated>
+    <updated>2026-05-03T15:33:05+02:00</updated>
     <author>
         <name>by Ruth Seleo</name>
     </author>
@@ -331,7 +331,7 @@
 </div>
 <p>You don’t need to address every question in depth. They’re intended as prompts, not a checklist.</p>
 <p class="align-center"><span style="font-weight: 400;">You can schedule a call with us here:</span></p>
-<p class="align-center"><a href="https://calendly.com/compassionate-future/30-minutes-meeting" style="display: inline-flex; align-items: center; gap: 8px; background: #4D7A7A; color: #fff; text-decoration: none; padding: .65rem 1.3rem; border-radius: 4px; font-size: .88rem; font-weight: bold; box-shadow: 0 2px 6px rgba(77,122,122,0.35);"> <svg width="15" height="15" viewbox="0 0 24 24" fill="none"> <path d="M4 4h16v12H4z" stroke="#fff" stroke-width="1.5" stroke-linejoin="round"></path> <path d="M4 4l8 8 8-8" stroke="#fff" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path> </svg> Contact us </a></p>
+<div class="cfi-contact-btn align-center"><a href="https://calendly.com/compassionate-future/30-minutes-meeting" style="display: inline-flex; align-items: center; gap: 8px; background: #4D7A7A; color: #fff; text-decoration: none; padding: .65rem 1.3rem; border-radius: 4px; font-size: .88rem; font-weight: bold; box-shadow: 0 2px 6px rgba(77,122,122,0.35);"> <svg width="15" height="15" viewbox="0 0 24 24" fill="none"> <path d="M4 4h16v12H4z" stroke="#fff" stroke-width="1.5" stroke-linejoin="round"></path> <path d="M4 4l8 8 8-8" stroke="#fff" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path> </svg> Contact us </a></div>
 </div>
 <p><span style="font-weight: 400;">We also warmly invite you to our bi-monthly community events:</span><span style="font-weight: 400;"><br></span><a href="https://luma.com/Compassionate-Impact">https://luma.com/Compassionate-Impact</a></p>
 <p><strong>So, let's connect! :)</strong></p>
@@ -819,7 +819,8 @@
 </div>
 <div style="border-top: 1px solid #e0ecec; padding-top: 1.25rem; display: flex; flex-direction: column; align-items: center; gap: .85rem; text-align: center;">
 <p style="font-size: .72rem; color: #7a8a87; font-weight: bold; letter-spacing: .14em; text-transform: uppercase; margin: 0;">Reach out to work through those questions together.</p>
-<a href="https://calendly.com/compassionate-future/30-minutes-meeting" style="display: inline-flex; align-items: center; gap: 8px; background: #4D7A7A; color: #fff; text-decoration: none; padding: .65rem 1.3rem; border-radius: 8px; font-size: .88rem; font-weight: bold; box-shadow: 0 2px 6px rgba(77,122,122,0.35);"> <svg width="15" height="15" viewbox="0 0 24 24" fill="none"> <path d="M4 4h16v12H4z" stroke="#fff" stroke-width="1.5" stroke-linejoin="round"></path> <path d="M4 4l8 8 8-8" stroke="#fff" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path> </svg> Contact us </a></div>
+<div class="cfi-contact-btn"><a href="https://calendly.com/compassionate-future/30-minutes-meeting" style="display: inline-flex; align-items: center; gap: 8px; background: #4D7A7A; color: #fff; text-decoration: none; padding: .65rem 1.3rem; border-radius: 8px; font-size: .88rem; font-weight: bold; box-shadow: 0 2px 6px rgba(77,122,122,0.35);"> <svg width="15" height="15" viewbox="0 0 24 24" fill="none"> <path d="M4 4h16v12H4z" stroke="#fff" stroke-width="1.5" stroke-linejoin="round"></path> <path d="M4 4l8 8 8-8" stroke="#fff" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path> </svg> Contact us </a></div>
+</div>
 </div>
 <p class="align-center"><span style="color: #95a5a6;">This page was first published on 25 Apr 2026. </span></p>
             ]]>
